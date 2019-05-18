@@ -1,0 +1,28 @@
+{
+  "name": "chillswitch_engage",
+  "version": "1.0.0",
+  "description": "don't read me.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index",
+    "dev": "nodemon index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/intel64bit/chillswitch_engage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/intel64bit/chillswitch_engage/issues"
+  },
+  "homepage": "https://github.com/intel64bit/chillswitch_engage#readme",
+  "dependencies": {
+    "express": "^4.17.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.0"
+  }
+}
